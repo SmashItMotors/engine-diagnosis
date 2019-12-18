@@ -1,0 +1,3 @@
+- [Getting started](/)
+  - [Understanding this guide](gettingstarted.md)
+  - [Fuel Trims](fueltrims.md)
